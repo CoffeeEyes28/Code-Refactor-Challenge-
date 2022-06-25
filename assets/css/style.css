@@ -4,6 +4,8 @@
   margin: 0;
 }
 
+/* Applies background color to entire page */
+
 body {
   background-color: #d9dcd6;
 }
@@ -20,6 +22,8 @@ header h1 {
   display: inline-block;
   font-size: 48px;
 }
+
+/* Applies color change to the three letters "seo" inside of Horiseon */
 
 header mark {
   color: #d9dcd6;
