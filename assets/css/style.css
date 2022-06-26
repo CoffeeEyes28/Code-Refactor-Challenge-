@@ -10,6 +10,8 @@ body {
   background-color: #d9dcd6;
 }
 
+/* formating for header/nav */
+
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -52,6 +54,7 @@ nav a {
   text-decoration: none;
 }
 
+/* Formats large marketing team img */
 .hero {
   height: 800px;
   width: 100%;
@@ -61,12 +64,13 @@ nav a {
   background-position: center;
 }
 
+/* display formating for pages main content */
 main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
-
+/* applies font family, size, and font/background color to main page section */
 main section {
   margin-bottom: 20px;
   padding: 50px;
@@ -99,6 +103,7 @@ main p {
   font-size: 16px;
 }
 
+/* formating for aside  */
 aside {
   margin-right: 20px;
   padding: 20px;
