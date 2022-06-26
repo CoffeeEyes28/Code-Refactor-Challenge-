@@ -3,7 +3,10 @@ Challenge #1 HTML, CSS, and Git: Code Refactor
 
 # Description 
 Changed HTML to follow proper semantic format
-Clean up CSS to follow with HTML changes and remove any uneeded classes
+<br>
+Fixed non working nav links
+<br>
+Cleaned up CSS to match with HTML changes and removed any uneeded classes
 
 
 
